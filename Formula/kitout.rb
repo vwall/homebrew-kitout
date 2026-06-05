@@ -7,12 +7,12 @@ class Kitout < Formula
   on_macos do
     on_arm do
       url "https://github.com/vwall/kitout/releases/download/v0.1.0/kitout_0.1.0_darwin_arm64.tar.gz"
-      sha256 "3d0d81efe9b235340e4a4a1fb641891637e8f68d3fd34b30a580c78cc1f150d0"
+      sha256 "c287b830fe06fd0ada7b7223e17a4e8653645b1c407d986e5bc0c87c48a7029a"
     end
 
     on_intel do
       url "https://github.com/vwall/kitout/releases/download/v0.1.0/kitout_0.1.0_darwin_amd64.tar.gz"
-      sha256 "e5929a28bca39c7570295919a1559749de4f4dc3186bb61ac020768919f7f35a"
+      sha256 "8e74f7293ed94c28735f0641ab0f39fdcee9329e3b63418bd51b89ba92321ec5"
     end
   end
 
